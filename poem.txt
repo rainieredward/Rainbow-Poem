@@ -8,5 +8,6 @@ Red
 Purple
 Violet
 Cyan
+Yellow
 
 These are rainbows 
