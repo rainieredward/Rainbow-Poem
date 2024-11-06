@@ -7,4 +7,6 @@ Green
 Red
 Purple
 Violet
+Cyan
+
 These are rainbows 
