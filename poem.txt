@@ -1,4 +1,5 @@
 The Rainbow and the Unicorn
+And pony
 
 Pink
 BLue
@@ -12,4 +13,4 @@ Violet
 Cyan
 Yellow
 
-These are rainbows and unicorn.
+These are rainbows and unicorn and pony
