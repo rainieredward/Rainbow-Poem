@@ -6,6 +6,7 @@ Red
 Green
 Red
 Unicorn
+Indigo
 Purple
 Violet
 Cyan
